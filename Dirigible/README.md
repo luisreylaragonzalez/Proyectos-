@@ -7,3 +7,5 @@
 
 ## https://www.askix.com/construir-un-dirigible-no-rigido-de-rc-para-menos-de-13_4.html#title
 ## https://www.askix.com/sub-micro-espia-dirigible-no-rigido-del-edificio-con-servos-hackeado.html
+
+## https://cults3d.com/es/modelo-3d/juegos/blimpduino-open-source-remotely-controlled-blimp
