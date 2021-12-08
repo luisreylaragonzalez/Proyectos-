@@ -12,3 +12,6 @@
 
 ## Tweetosapien: Hack a Robosapien With Arduino to React to Tweets
 ## https://makezine.com/2013/06/03/tweetosapien-hack-a-robosapien-with-arduino-to-react-to-tweets/
+
+## Robosapien Hacks
+## https://www.pinterest.ca/randellrl1/robosapien-hacks/
