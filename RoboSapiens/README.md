@@ -15,3 +15,15 @@
 
 ## Robosapien Hacks
 ## https://www.pinterest.ca/randellrl1/robosapien-hacks/
+
+## robosapien and arduino
+## https://playground.arduino.cc/Main/RoboSapienIR/
+
+## hack-a-robosapien
+## https://code.google.com/archive/p/hack-a-robosapien/
+
+## 
+## https://hackaday.com/2021/09/07/pandemic-gives-passersby-a-window-on-cyborg-control/
+
+## RoboSapien IR Codes
+## https://www.markcra.com/robot/ir_codes.php
