@@ -1,3 +1,6 @@
+![alt text](Figure-1_large.png)
+
+
 ## Arduino®-compatible LEDuino running an autonomous Robosapien robot!
 ## https://cal-eng.com/?page_id=681
 
