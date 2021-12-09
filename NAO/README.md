@@ -22,5 +22,6 @@ OpenNAO is a GNU/Linux distribution based on Gentoo.
 ## When NAOqi ends prematurely in an unexpected way, an issue report is generated in: /var/lib/minidump.
 ## When NAOqi ends prematurely in an unexpected way, an issue report is generated in: /var/lib/minidump.
 
-
+## Documentación de NAO
+## http://doc.aldebaran.com/1-14/index.html
 
