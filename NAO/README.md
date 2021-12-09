@@ -8,3 +8,6 @@
 
 ## Special Start-up
 ## https://www.softbankrobotics.com/emea/en/support/nao-6/7-safety-advanced-operations#title-0
+
+## Steps to Factory Reset Through Choregraphe Your NAO and Pepper Robots
+## https://www.robotlab.com/support/steps-to-factory-reset-through-choregraphe-your-nao-and-pepper-robots
