@@ -22,3 +22,7 @@
 
 ## 0758. Geometría moderna para ingeniería.pdf
 ### https://www.untumbes.edu.pe//vcs/biblioteca/document/varioslibros/0758.%20Geometr%C3%ADa%20moderna%20para%20ingenier%C3%ADa.pdf
+
+## PROCESSING: 10.2 Operaciones con Arrays [En español]
+### https://www.youtube.com/watch?v=qTsfPADQr-U
+
