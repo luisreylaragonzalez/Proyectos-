@@ -16,3 +16,11 @@
 OpenNAO - NAO OS
 OpenNAO is a GNU/Linux distribution based on Gentoo.
 ## http://doc.aldebaran.com/1-14/dev/tools/opennao.html
+
+
+## Debugging and investigating on the robot
+## When NAOqi ends prematurely in an unexpected way, an issue report is generated in: /var/lib/minidump.
+## When NAOqi ends prematurely in an unexpected way, an issue report is generated in: /var/lib/minidump.
+
+
+
