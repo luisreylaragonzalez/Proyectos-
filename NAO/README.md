@@ -11,3 +11,8 @@
 
 ## Steps to Factory Reset Through Choregraphe Your NAO and Pepper Robots
 ## https://www.robotlab.com/support/steps-to-factory-reset-through-choregraphe-your-nao-and-pepper-robots
+
+
+OpenNAO - NAO OS
+OpenNAO is a GNU/Linux distribution based on Gentoo.
+## http://doc.aldebaran.com/1-14/dev/tools/opennao.html
