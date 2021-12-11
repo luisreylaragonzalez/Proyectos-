@@ -20,3 +20,5 @@
 ## Servomotor Digital MG996R, engranaje de Metal, para coche, barco, helicóptero, KY62, 10 Uds.
 ### https://es.aliexpress.com/item/1005002177428209.html?spm=a2g0o.productlist.0.0.562d6d286KK79p&algo_pvid=cf2a6785-93bb-495e-b888-cca82ff41985&algo_exp_id=cf2a6785-93bb-495e-b888-cca82ff41985-8&pdp_ext_f=%7B%22sku_id%22%3A%2212000018947817902%22%7D
 
+## Placa de Control de servocontrolador para Arduino, placa de Control de Robot de 32 canales, promoción + envío gratis, 1 unidad
+### https://es.aliexpress.com/item/32649777021.html?spm=a2g0o.detail.1000013.3.7b884bd2KYO60g&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.169870.0&scm_id=1007.13339.169870.0&scm-url=1007.13339.169870.0&pvid=e9dc2add-46a3-411f-b6a6-3ef15c30cb2f&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.13339.169870.0,pvid:e9dc2add-46a3-411f-b6a6-3ef15c30cb2f,tpp_buckets:668%232846%238111%231996&pdp_ext_f=%7B%22sceneId%22:%223339%22,%22sku_id%22:%2259734332833%22%7D
