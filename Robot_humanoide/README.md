@@ -22,3 +22,6 @@
 
 ## Placa de Control de servocontrolador para Arduino, placa de Control de Robot de 32 canales, promoción + envío gratis, 1 unidad
 ### https://es.aliexpress.com/item/32649777021.html?spm=a2g0o.detail.1000013.3.7b884bd2KYO60g&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.169870.0&scm_id=1007.13339.169870.0&scm-url=1007.13339.169870.0&pvid=e9dc2add-46a3-411f-b6a6-3ef15c30cb2f&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.13339.169870.0,pvid:e9dc2add-46a3-411f-b6a6-3ef15c30cb2f,tpp_buckets:668%232846%238111%231996&pdp_ext_f=%7B%22sceneId%22:%223339%22,%22sku_id%22:%2259734332833%22%7D
+
+## 17 DOF Humanoid Robot from Robu.in comes with 17 degrees of freedom joints. Its actuated using 
+#### https://robu.in/wp-content/uploads/2017/06/17DOF-Humonoid-Robot.pdf
