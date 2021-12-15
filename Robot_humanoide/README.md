@@ -30,3 +30,20 @@
 ## La meta
 ### https://www.hiwonder.hk/
 ### https://www.youtube.com/watch?v=k0zTMIjW9HM
+
+## TOP 5 OPEN SOURCE 3D PRINTED ROBOTS
+### https://www.youtube.com/watch?v=Zsw35FpJSz0
+
+Thanks for Watching
+
+#1 InMoov
+     http://inmoov.fr/
+#2 Jimmy
+    https://youtu.be/dUPW6qkTLfE
+#3 POPPY
+    https://www.poppy-project.org/en/
+#4 PLEN2
+    https://3dprint.com/78309/plen-playgr...
+#5 EIRO
+   https://en.goteo.org/project/eiro-ope... ::::::::::: SUPPORT CHANNEL 
+
