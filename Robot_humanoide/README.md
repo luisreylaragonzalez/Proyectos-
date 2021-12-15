@@ -40,10 +40,14 @@ Thanks for Watching
      http://inmoov.fr/
 #2 Jimmy
     https://youtu.be/dUPW6qkTLfE
+    https://www.youtube.com/watch?v=dUPW6qkTLfE&t=0s
 #3 POPPY
     https://www.poppy-project.org/en/
+    
 #4 PLEN2
     https://3dprint.com/78309/plen-playgr...
+    https://3dprint.com/78309/plen-playground/
 #5 EIRO
    https://en.goteo.org/project/eiro-ope... ::::::::::: SUPPORT CHANNEL 
+   https://en.goteo.org/project/eiro-open-source-robot-kit/updates/actualizacion
 ```
