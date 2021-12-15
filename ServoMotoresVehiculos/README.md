@@ -22,4 +22,9 @@ https://www.firgelliauto.com/es/blogs/tutorials/how-do-you-control-a-linear-actu
 TIPOS DE ACTUADORES LINEALES PARA PROYECTOS DE ARDUINO
 https://www.luisllamas.es/tipos-actuadores-lineales-proyectos-arduino/
 
+
+TIPOS DE MOTORES ROTATIVOS PARA PROYECTOS DE ARDUINO
+https://www.luisllamas.es/tipos-motores-rotativos-proyectos-arduino/
+
+
 ```
