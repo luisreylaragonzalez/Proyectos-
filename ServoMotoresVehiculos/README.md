@@ -19,4 +19,7 @@ https://www.amazon.com/-/es/Los-m%C3%A1s-vendidos-Automotive-Motores-para-Actuad
 Controlar un actuador lineal con un Arduino
 https://www.firgelliauto.com/es/blogs/tutorials/how-do-you-control-a-linear-actuator-with-an-arduino
 
+TIPOS DE ACTUADORES LINEALES PARA PROYECTOS DE ARDUINO
+https://www.luisllamas.es/tipos-actuadores-lineales-proyectos-arduino/
+
 ```
