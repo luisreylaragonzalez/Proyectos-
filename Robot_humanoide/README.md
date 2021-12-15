@@ -58,5 +58,9 @@ More info on
 poppy-project.org
 forum.poppy-project.org
 github.com/poppy-project
+
+We listed best open source robotic arms on internet. Some of them arduino controlled. Mostly 3D printed parts.
+https://pinouts.net/best-open-source-robot-arm-projects/
+https://www.youtube.com/watch?v=brck--TcH6g
    
 ```
