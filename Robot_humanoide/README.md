@@ -51,6 +51,12 @@ Thanks for Watching
    https://en.goteo.org/project/eiro-ope... ::::::::::: SUPPORT CHANNEL 
    https://en.goteo.org/project/eiro-open-source-robot-kit/updates/actualizacion
    
-   Time lapse of Poppy humanoid's assembly
-   https://www.youtube.com/watch?v=52Lqz3xDBvc
+Time lapse of Poppy humanoid's assembly
+https://www.youtube.com/watch?v=52Lqz3xDBvc
+
+More info on
+poppy-project.org
+forum.poppy-project.org
+github.com/poppy-project
+   
 ```
