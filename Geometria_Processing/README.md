@@ -11,6 +11,11 @@
 ´´´
 ## UNIDAD I - Dibujando mediante coordenadas
 ### https://es.khanacademy.org/computer-programming/curso-de-dibujo-geomtrico-mediante-programacin/5513928865/embedded
+
+https://es.khanacademy.org/computing/computer-programming/programming-games-visualizations/programming-3d-shapes/a/what-are-3d-shapes
+https://es.khanacademy.org/computing/computer-programming/programming-games-visualizations/programming-3d-shapes/a/generating-3d-shapes
+
+
 ´´´
 
 ## Trigonometría
