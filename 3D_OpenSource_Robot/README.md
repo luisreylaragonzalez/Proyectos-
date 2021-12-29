@@ -1,6 +1,17 @@
 ```
 Open 3D printable robots
-
 https://wikifactory.com/@cparrapa/collections/open-3d-printable-robots
+
+Archivos fuente del robot Ergo Jr
+https://github.com/poppy-project/poppy-ergo-jr/tree/master/hardware
+https://www.poppy-education.org/robots/poppy-ergo-jr/
+
+
+
+Recursos para el robot humanoide Poppy
+https://www.poppy-education.org/robots/poppy-humanoid/
+
+poppy-humanoid/hardware/
+https://github.com/poppy-project/poppy-humanoid/tree/master/hardware
 
 ```
