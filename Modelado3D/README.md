@@ -12,4 +12,8 @@ Course: Blender Addon Development Simplified
 - Python basics for Blender.
 https://olav3d.gumroad.com/l/fciiU
 
+
+Curso Python para Blender 01- Hola Mundo
+https://www.youtube.com/watch?v=HQliTqiBdvk
+
 ```
