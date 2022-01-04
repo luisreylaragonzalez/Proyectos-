@@ -29,4 +29,7 @@ https://www.laserpecker.net/Products/LaserPecker-2-Pro-Super-Fast-Handheld-Laser
 US $ 959.99
 4-enero-2022
 
+LaserPecker 2-Fast Handheld Laser Engraver& Cutter
+https://www.indiegogo.com/projects/laserpecker-2-fast-handheld-laser-engraver-cutter#/
+
 ```
