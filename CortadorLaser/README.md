@@ -15,7 +15,9 @@ https://www.indiegogo.com/projects/all-metal-engraver-with-industrial-grade-qual
 
 Comparación
 https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1634610933/s84ihyx1t7wqhol88k3n.jpg
-![alt text](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1634610933/s84ihyx1t7wqhol88k3n.jpg)
 
 
 ```
+
+![alt text](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1634610933/s84ihyx1t7wqhol88k3n.jpg)
+
