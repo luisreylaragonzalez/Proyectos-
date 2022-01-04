@@ -22,7 +22,11 @@ https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v16346
 ![alt text](https://c1.iggcdn.com/indiegogo-media-prod-cld/image/upload/c_limit,w_695/v1634610933/s84ihyx1t7wqhol88k3n.jpg)
 
 ```
-https://www.laserpecker.net/Products/LaserPecker-2-Pro-Super-Fast-Handheld-Laser-Engraver-Cutter-p1927246.html
+Grabadora y cortadora láser de mano LaserPecker 2 Pro-Super Fast
 
+
+https://www.laserpecker.net/Products/LaserPecker-2-Pro-Super-Fast-Handheld-Laser-Engraver-Cutter-p1927246.html
+US $ 959.99
+4-enero-2022
 
 ```
