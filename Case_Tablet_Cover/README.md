@@ -21,5 +21,8 @@ https://www.thingiverse.com/thing:3004860
 https://www.thingiverse.com/thing:5098461
 Tablet Mount (old version, inferior to the new one)
 
+Tablet stand universal 3D print model
+https://www.cgtrader.com/3d-print-models/gadgets/tablets/tablet-stand-universal
+
 
 ```
