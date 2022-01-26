@@ -9,4 +9,9 @@ https://www.thingiverse.com/thing:3680074
 DIY Desk Tablet for mobile work/gaming
 https://www.thingiverse.com/thing:5162853
 
+Adjustable tripod mount for tablet or smartphone
+https://www.thingiverse.com/thing:2086886
+
+
+
 ```
