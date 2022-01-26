@@ -12,6 +12,7 @@ https://www.thingiverse.com/thing:5162853
 Adjustable tripod mount for tablet or smartphone
 https://www.thingiverse.com/thing:2086886
 
-
+Spark/Mavic "GO" universal tablet holder
+https://www.thingiverse.com/thing:3383135
 
 ```
