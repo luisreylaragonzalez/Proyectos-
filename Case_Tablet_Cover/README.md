@@ -30,4 +30,9 @@ https://www.thingiverse.com/thing:2042136
 Universal Car Tablet Holder Back Seat Headrest Mounting
 https://www.thingiverse.com/thing:3545707
 
+Parametric tripod iPad / tablet stand
+https://www.thingiverse.com/thing:5153868/files
+
+
+
 ```
