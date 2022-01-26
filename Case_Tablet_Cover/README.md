@@ -24,5 +24,10 @@ Tablet Mount (old version, inferior to the new one)
 Tablet stand universal 3D print model
 https://www.cgtrader.com/3d-print-models/gadgets/tablets/tablet-stand-universal
 
+Swiveling Mic Stand Kindle Fire Tablet Mount
+https://www.thingiverse.com/thing:2042136
+
+Universal Car Tablet Holder Back Seat Headrest Mounting
+https://www.thingiverse.com/thing:3545707
 
 ```
