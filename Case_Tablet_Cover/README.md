@@ -15,4 +15,7 @@ https://www.thingiverse.com/thing:2086886
 Spark/Mavic "GO" universal tablet holder
 https://www.thingiverse.com/thing:3383135
 
+Amazon fire tablet [7|8] car holder - Opel Astra H
+https://www.thingiverse.com/thing:3004860
+
 ```
