@@ -18,4 +18,8 @@ https://www.thingiverse.com/thing:3383135
 Amazon fire tablet [7|8] car holder - Opel Astra H
 https://www.thingiverse.com/thing:3004860
 
+https://www.thingiverse.com/thing:5098461
+Tablet Mount (old version, inferior to the new one)
+
+
 ```
