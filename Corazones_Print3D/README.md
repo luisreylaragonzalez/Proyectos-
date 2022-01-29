@@ -20,4 +20,13 @@ Tutorial de blender, modelado de un Corazón en Cycles 1/4 | Diego Gaona
 https://www.youtube.com/watch?v=o8RNhIwpOlI
 
 
+
+
+CORAZONES HECHOS EN  STL
+
+Geared Heart -Single Print with Moving Parts - Last Minute Gift
+https://www.thingiverse.com/thing:662447/files
+
+
+
 ```
