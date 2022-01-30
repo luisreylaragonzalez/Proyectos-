@@ -31,6 +31,8 @@ https://www.thingiverse.com/thing:662447/files
 Working Micro Gear Heart Keychain
 https://www.thingiverse.com/thing:24675
 
+Heart Gear Keychain
+https://www.thingiverse.com/thing:1871658/files
 
 
 ```
