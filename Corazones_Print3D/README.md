@@ -34,5 +34,8 @@ https://www.thingiverse.com/thing:24675
 Heart Gear Keychain
 https://www.thingiverse.com/thing:1871658/files
 
+Heart pendant
+https://www.thingiverse.com/thing:2076584
+
 
 ```
