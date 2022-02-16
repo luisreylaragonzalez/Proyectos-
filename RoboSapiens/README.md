@@ -9,6 +9,7 @@
 
 ## RoboSapienIR – use the RoboSapien with an Arduino
 ## https://blog.adafruit.com/2011/11/08/robosapienir-use-the-robosapien-with-an-arduino/
+## https://playground.arduino.cc/Main/RoboSapienIR/
 
 ## Tweetosapien: Hack a Robosapien With Arduino to React to Tweets
 ## https://makezine.com/2013/06/03/tweetosapien-hack-a-robosapien-with-arduino-to-react-to-tweets/
