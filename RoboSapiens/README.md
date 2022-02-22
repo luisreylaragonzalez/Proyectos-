@@ -1,4 +1,7 @@
 ![alt text](Figure-1_large.png)
+![alt text](RS01.png)
+
+![alt text](RS02.png)
 
 
 ## Arduino®-compatible LEDuino running an autonomous Robosapien robot!
