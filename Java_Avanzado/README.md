@@ -25,4 +25,12 @@ http://www.pearsonenespanol.com/docs/librariesprovider5/2018-college-open-resour
 
 JavaServer Faces Web Apps: Part 1
 https://www.pearsonenespanol.com/docs/librariesprovider5/2018-college-open-resources/deitel-como-programar-en-java/como-programar-en-java-1e-espcaps-en-linea/capitulo-30.pdf
+
+REST Web Services 32
+https://www.pearsonenespanol.com/docs/librariesprovider5/2018-college-open-resources/deitel-como-programar-en-java/como-programar-en-java-1e-espcaps-en-linea/capitulo-32.pdf
+
+
+
+
+
 ```
