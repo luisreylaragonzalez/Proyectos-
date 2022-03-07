@@ -14,6 +14,13 @@ https://ncet.co.in/assets/pdf/e_learning/ise/ol/semV/pdf/MODULE4.pdf
 Java applets
 https://ncet.co.in/assets/pdf/e_learning/ise/ol/semV/pdf/MODULE3.pdf
 
+Introduction to Programming Using Java book
+https://www.iitk.ac.in/esc101/share/downloads/javanotes5.pdf
+
+Java The Complete Reference, Seventh Edition
+https://gfgc.kar.nic.in/sirmv-science/GenericDocHandler/138-a2973dc6-c024-4d81-be6d-5c3344f232ce.pdf
+
+
 
 
 ```
