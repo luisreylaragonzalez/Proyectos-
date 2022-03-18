@@ -33,6 +33,7 @@ https://www.thingiverse.com/thing:3545707
 Parametric tripod iPad / tablet stand
 https://www.thingiverse.com/thing:5153868/files
 
-
+LCD Monitor with broken laptop
+https://www.thingiverse.com/thing:3593487
 
 ```
