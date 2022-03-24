@@ -13,6 +13,7 @@ https://www.thingiverse.com/thing:1015238
 
 EEZYbotARM MK2
 https://www.thingiverse.com/thing:1454048
+https://www.instructables.com/EEZYbotARM-Mk2-3D-Printed-Robot/
 
 ```
 ![alt text](ro2.png)
