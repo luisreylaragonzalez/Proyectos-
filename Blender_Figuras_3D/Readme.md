@@ -13,4 +13,7 @@ https://www.youtube.com/watch?v=7mhMCFurFHo
 Motion Capture Blender Tutorial (Xbox 360 Kinect)
 https://www.youtube.com/watch?v=lFdbfUv3aYc
 
+Creando Pelo en Blender - Flat Modeling
+https://www.youtube.com/watch?v=i5w8doONhWg
+
 ```
