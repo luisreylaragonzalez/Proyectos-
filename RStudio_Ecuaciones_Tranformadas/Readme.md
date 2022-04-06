@@ -26,6 +26,10 @@ https://www.youtube.com/watch?v=3PU-7qwO904
 Lección Nº2 Programación R - LAPLACE
 https://www.youtube.com/watch?v=Zh8Ok-xCcUE
 
+Ecuaciones diferenciales | Introducción
+https://www.youtube.com/watch?v=rd2jKGQJucE
+
+
 
 
 
