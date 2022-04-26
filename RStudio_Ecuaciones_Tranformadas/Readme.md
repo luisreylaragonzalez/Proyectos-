@@ -29,6 +29,9 @@ https://www.youtube.com/watch?v=Zh8Ok-xCcUE
 Ecuaciones diferenciales | Introducción
 https://www.youtube.com/watch?v=rd2jKGQJucE
 
+ECUACIONES DIFERENCIALES: Fundamentos y Aplicaciones | El Traductor
+https://www.youtube.com/watch?v=MdKOjS8-oNw
+
 
 
 
