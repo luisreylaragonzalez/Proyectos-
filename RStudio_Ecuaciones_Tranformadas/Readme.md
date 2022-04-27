@@ -47,7 +47,8 @@ https://www.youtube.com/watch?v=nfeakeH94bE
 ¿Para qué sirven las Ecuaciones Diferenciales? Aplicaciones de las Ecuaciones Diferenciales
 https://www.youtube.com/watch?v=hPPgDoOLhWg&list=PL9SnRnlzoyX3nM-vp3hPmDvm195QK8NFe
 
-
+Cómo crear un modelo mediante Ecuaciones Diferenciales, lenguaje de funciones y derivadas
+https://www.youtube.com/watch?v=V9UE2QmnDjw&list=PL9SnRnlzoyX3nM-vp3hPmDvm195QK8NFe&index=2
 
 ```
 
