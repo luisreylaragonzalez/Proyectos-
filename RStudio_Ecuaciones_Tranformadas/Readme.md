@@ -38,6 +38,8 @@ https://www.youtube.com/watch?v=0WXQbYDH4yI
 Calculadora para transformadas de Laplace
 https://es.symbolab.com/solver/laplace-calculator
 
+¿Qué interpretación tiene la transformada de Laplace?
+https://www.youtube.com/watch?v=oXXNDrGs7FY
 
 
 ```
