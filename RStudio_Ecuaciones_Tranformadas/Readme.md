@@ -41,6 +41,13 @@ https://es.symbolab.com/solver/laplace-calculator
 ¿Qué interpretación tiene la transformada de Laplace?
 https://www.youtube.com/watch?v=oXXNDrGs7FY
 
+Aplicación de EDO: Sistema masa resorte, usando Laplace
+https://www.youtube.com/watch?v=nfeakeH94bE
+
+¿Para qué sirven las Ecuaciones Diferenciales? Aplicaciones de las Ecuaciones Diferenciales
+https://www.youtube.com/watch?v=hPPgDoOLhWg&list=PL9SnRnlzoyX3nM-vp3hPmDvm195QK8NFe
+
+
 
 ```
 
