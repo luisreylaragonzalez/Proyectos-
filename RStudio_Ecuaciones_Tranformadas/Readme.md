@@ -35,7 +35,8 @@ https://www.youtube.com/watch?v=MdKOjS8-oNw
 🎓 ENTIENDE con 7 CLAVES la TRANSFORMADA DE LAPLACE [para PRINCIPIANTES]
 https://www.youtube.com/watch?v=0WXQbYDH4yI
 
-
+Calculadora para transformadas de Laplace
+https://es.symbolab.com/solver/laplace-calculator
 
 
 
