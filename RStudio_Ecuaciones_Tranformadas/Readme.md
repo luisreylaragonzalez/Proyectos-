@@ -32,6 +32,9 @@ https://www.youtube.com/watch?v=rd2jKGQJucE
 ECUACIONES DIFERENCIALES: Fundamentos y Aplicaciones | El Traductor
 https://www.youtube.com/watch?v=MdKOjS8-oNw
 
+🎓 ENTIENDE con 7 CLAVES la TRANSFORMADA DE LAPLACE [para PRINCIPIANTES]
+https://www.youtube.com/watch?v=0WXQbYDH4yI
+
 
 
 
