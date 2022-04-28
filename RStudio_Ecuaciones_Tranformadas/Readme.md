@@ -50,5 +50,12 @@ https://www.youtube.com/watch?v=hPPgDoOLhWg&list=PL9SnRnlzoyX3nM-vp3hPmDvm195QK8
 Cómo crear un modelo mediante Ecuaciones Diferenciales, lenguaje de funciones y derivadas
 https://www.youtube.com/watch?v=V9UE2QmnDjw&list=PL9SnRnlzoyX3nM-vp3hPmDvm195QK8NFe&index=2
 
+Aplicaciones de las integrales
+Área limitada por una curva y el eje X (Mediante integral definida)
+https://www.youtube.com/watch?v=l147cWii6nQ&list=PL9SnRnlzoyX0yesmzQIp9iJ9WfL01iiPe
+
+
+
+
 ```
 
