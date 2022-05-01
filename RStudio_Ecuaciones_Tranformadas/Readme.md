@@ -44,6 +44,9 @@ https://www.youtube.com/watch?v=oXXNDrGs7FY
 Aplicación de EDO: Sistema masa resorte, usando Laplace
 https://www.youtube.com/watch?v=nfeakeH94bE
 
+0. ¿Qué es una Ecuación Diferencial? Tipos de ecuaciones diferenciales, solución de ED
+https://www.youtube.com/watch?v=q3PKNySW6LQ
+
 ¿Para qué sirven las Ecuaciones Diferenciales? Aplicaciones de las Ecuaciones Diferenciales
 https://www.youtube.com/watch?v=hPPgDoOLhWg&list=PL9SnRnlzoyX3nM-vp3hPmDvm195QK8NFe
 
@@ -57,8 +60,7 @@ https://www.youtube.com/watch?v=l147cWii6nQ&list=PL9SnRnlzoyX0yesmzQIp9iJ9WfL01i
 ¿Para qué sirven las Ecuaciones Diferenciales? Aplicaciones de las Ecuaciones Diferenciales
 https://www.youtube.com/watch?v=hPPgDoOLhWg&list=PL9SnRnlzoyX3nM-vp3hPmDvm195QK8NFe
 
-0. ¿Qué es una Ecuación Diferencial? Tipos de ecuaciones diferenciales, solución de ED
-https://www.youtube.com/watch?v=q3PKNySW6LQ
+
 
 
 ```
