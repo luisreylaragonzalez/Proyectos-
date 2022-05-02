@@ -60,6 +60,19 @@ https://www.youtube.com/watch?v=l147cWii6nQ&list=PL9SnRnlzoyX0yesmzQIp9iJ9WfL01i
 ¿Para qué sirven las Ecuaciones Diferenciales? Aplicaciones de las Ecuaciones Diferenciales
 https://www.youtube.com/watch?v=hPPgDoOLhWg&list=PL9SnRnlzoyX3nM-vp3hPmDvm195QK8NFe
 
+==============
+Introducción a los métodos Numéricos
+TOP 7 Libros de MÉTODOS NUMÉRICOS con el PODER de SAITAMA (One Punch Man) Análisis y Reseña
+https://www.youtube.com/watch?v=Tf7gzBoS96Q
+
+Libro:
+Análisis - Numérico Benalcázar gomez hernan
+https://qdoc.tips/analisisnumerico-benalcazar--5-pdf-free.html
+
+Métodos Numéricos 
+Francis
+En la carpeta 2022 Mayo-Agosto
+
 
 
 
