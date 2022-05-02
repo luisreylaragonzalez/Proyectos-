@@ -76,8 +76,11 @@ En la carpeta 2022 Mayo-Agosto
 shoichiro nakamura métodos numéricos aplicados con software
 https://cpfunam.files.wordpress.com/2015/11/mc3a9todos-numc3a9ricos-aplicados-con-software-shoichiro-nakamura-1era-edicic3b3n.pdf
 
+MÉTODOS NUMÉRICOS Curso COMPLETO para CIENCIAS e INGENIERÍA, TRAILER 🎬
+https://www.youtube.com/watch?v=Igzhui_b51E&list=PLQjNNgZtKrjQvOBvxRnzY3bBWOO4tpln4
 
-
+Problemas de cálculo numérico para ingenieros con aplicaciones Matlab
+https://es.pdfdrive.com/problemas-de-c%C3%A1lculo-num%C3%A9rico-para-ingenieros-con-aplicaciones-matlab-d176429912.html
 
 
 ```
