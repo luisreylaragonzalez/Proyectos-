@@ -82,6 +82,18 @@ https://www.youtube.com/watch?v=Igzhui_b51E&list=PLQjNNgZtKrjQvOBvxRnzY3bBWOO4tp
 Problemas de cálculo numérico para ingenieros con aplicaciones Matlab
 https://es.pdfdrive.com/problemas-de-c%C3%A1lculo-num%C3%A9rico-para-ingenieros-con-aplicaciones-matlab-d176429912.html
 
+Matemáticas avanzadas por Rusos 
+Introducción a los Métodos Numéricos – AA Samarski
+http://samarskii.ru/books/book1986_4.pdf
+
+Libro Análisis Numérico – Burden & Faires – 10ed
+https://heavyphysicsblog.files.wordpress.com/2019/06/analisis-numerico-burden-faires-10ed.pdf
+
+Métodos Numéricos Errores
+https://www.youtube.com/watch?v=Uar4YGnz7ek
+Teoria de conceptos
+
+
 
 ```
 
