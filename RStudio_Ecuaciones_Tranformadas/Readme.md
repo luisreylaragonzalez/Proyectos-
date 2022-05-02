@@ -73,6 +73,10 @@ Métodos Numéricos
 Francis
 En la carpeta 2022 Mayo-Agosto
 
+shoichiro nakamura métodos numéricos aplicados con software
+https://cpfunam.files.wordpress.com/2015/11/mc3a9todos-numc3a9ricos-aplicados-con-software-shoichiro-nakamura-1era-edicic3b3n.pdf
+
+
 
 
 
