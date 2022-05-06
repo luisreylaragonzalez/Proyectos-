@@ -98,5 +98,12 @@ Teoria de conceptos
 236. Ecuación diferencial resuelta por Transformadas de Laplace
 https://www.youtube.com/watch?v=bOs0g8EY5nE
 
+168. Transformada de Laplace: ¿qué es?. Definición, explicación y primer ejemplo.
+https://www.youtube.com/watch?v=8kEz2DSH9BA
+
+
+
+
+
 ```
 
