@@ -26,8 +26,7 @@ https://www.youtube.com/watch?v=3PU-7qwO904
 Lección Nº2 Programación R - LAPLACE
 https://www.youtube.com/watch?v=Zh8Ok-xCcUE
 
-Ecuaciones diferenciales | Introducción
-https://www.youtube.com/watch?v=rd2jKGQJucE
+
 
 ECUACIONES DIFERENCIALES: Fundamentos y Aplicaciones | El Traductor
 https://www.youtube.com/watch?v=MdKOjS8-oNw
@@ -46,9 +45,6 @@ https://www.youtube.com/watch?v=nfeakeH94bE
 
 0. ¿Qué es una Ecuación Diferencial? Tipos de ecuaciones diferenciales, solución de ED
 https://www.youtube.com/watch?v=q3PKNySW6LQ
-
-¿Para qué sirven las Ecuaciones Diferenciales? Aplicaciones de las Ecuaciones Diferenciales
-https://www.youtube.com/watch?v=hPPgDoOLhWg&list=PL9SnRnlzoyX3nM-vp3hPmDvm195QK8NFe
 
 Cómo crear un modelo mediante Ecuaciones Diferenciales, lenguaje de funciones y derivadas
 https://www.youtube.com/watch?v=V9UE2QmnDjw&list=PL9SnRnlzoyX3nM-vp3hPmDvm195QK8NFe&index=2
@@ -94,6 +90,26 @@ https://www.youtube.com/watch?v=Uar4YGnz7ek
 Teoria de conceptos
 
 ===================================
+ECUACIONES DIFERENCIALES
+
+Ecuaciones diferenciales | Introducción
+https://www.youtube.com/watch?v=rd2jKGQJucE
+
+lista de videos 
+Ecuaciones diferenciales
+https://www.youtube.com/watch?v=rd2jKGQJucE&list=PLeySRPnY35dFSDPi_4Q5R1VCGL_pab26A&index=1
+https://www.youtube.com/watch?v=_GW79tPHmVA&list=PLeySRPnY35dFSDPi_4Q5R1VCGL_pab26A&index=2
+https://www.youtube.com/watch?v=NYE1GhhiF7E&list=PLeySRPnY35dFSDPi_4Q5R1VCGL_pab26A&index=3
+https://www.youtube.com/watch?v=j1nwW8eyD0Q&list=PLeySRPnY35dFSDPi_4Q5R1VCGL_pab26A&index=4
+
+
+¿Para qué sirven las Ecuaciones Diferenciales? Aplicaciones de las Ecuaciones Diferenciales
+LISTA de 34 VIDEOS EN UNA LISTA
+https://www.youtube.com/watch?v=hPPgDoOLhWg&list=PL9SnRnlzoyX3nM-vp3hPmDvm195QK8NFe
+https://www.youtube.com/watch?v=V9UE2QmnDjw&list=PL9SnRnlzoyX3nM-vp3hPmDvm195QK8NFe&index=2
+https://www.youtube.com/watch?v=WgWcxansYCs&list=PL9SnRnlzoyX3nM-vp3hPmDvm195QK8NFe&index=3
+https://www.youtube.com/watch?v=sKOHbx4UPTI&list=PL9SnRnlzoyX3nM-vp3hPmDvm195QK8NFe&index=4
+
 
 236. Ecuación diferencial resuelta por Transformadas de Laplace
 https://www.youtube.com/watch?v=bOs0g8EY5nE
@@ -101,7 +117,8 @@ https://www.youtube.com/watch?v=bOs0g8EY5nE
 168. Transformada de Laplace: ¿qué es?. Definición, explicación y primer ejemplo.
 https://www.youtube.com/watch?v=8kEz2DSH9BA
 
-
+Transformada de Laplace - Parte 1 de 3 | El Traductor
+https://www.youtube.com/watch?v=McSN9g7DbYA
 
 
 
