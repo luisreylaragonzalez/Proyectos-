@@ -93,7 +93,10 @@ Métodos Numéricos Errores
 https://www.youtube.com/watch?v=Uar4YGnz7ek
 Teoria de conceptos
 
+===================================
 
+236. Ecuación diferencial resuelta por Transformadas de Laplace
+https://www.youtube.com/watch?v=bOs0g8EY5nE
 
 ```
 
