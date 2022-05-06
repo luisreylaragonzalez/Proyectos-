@@ -91,6 +91,31 @@ Métodos Numéricos Errores
 https://www.youtube.com/watch?v=Uar4YGnz7ek
 Teoria de conceptos
 
+=====================================================+
+LIMTES
+
+LÍMITES - Clase Completa: Explicación desde Cero | El Traductor
+https://www.youtube.com/watch?v=pYVVPqphPS0&t=3349s
+
+
+====================================================
+DERIVADAS
+
+DERIVADAS - Clase Completa: Explicación Desde Cero | El Traductor
+El Traductor de Ingeniería 
+https://www.youtube.com/watch?v=_6-zwdrqD3U
+
+¿Qué es la derivada? EXPLICACIÓN DESDE CERO
+MateFacil
+https://www.youtube.com/watch?v=ia8L26ub_pc
+
+lista de videos
+Qué es la derivada? | Concepto de derivada
+Matemáticas profe Alex
+https://www.youtube.com/watch?v=uK4-s0ojHFg&list=PLeySRPnY35dG2UQ35tPsaVMYkQhc8Vp__
+https://www.youtube.com/watch?v=pMYdSjgzrys&list=PLeySRPnY35dG2UQ35tPsaVMYkQhc8Vp__&index=3
+
+
 ===================================
 ECUACIONES DIFERENCIALES
 
