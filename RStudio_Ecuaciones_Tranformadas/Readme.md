@@ -35,6 +35,13 @@ LÍMITES - Clase Completa: Explicación desde Cero | El Traductor
 https://www.youtube.com/watch?v=pYVVPqphPS0&t=3349s
 
 
+curso completo de limites
+Límite en un punto | Ejemplo 1
+Matemáticas profe Alex 
+https://www.youtube.com/watch?v=nTaiyaoyJhw&list=PLeySRPnY35dG9t51yT4nCwQEtWwCwvBwn
+
+
+
 ====================================================
 
 
