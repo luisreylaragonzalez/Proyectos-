@@ -148,7 +148,9 @@ ECUACIONES DIFERENCIALES: Fundamentos y Aplicaciones | El Traductor
 El Traductor de Ingeniería 
 https://www.youtube.com/watch?v=MdKOjS8-oNw
 
-
+Curso Completo de Ecuaciones Diferenciales
+https://www.youtube.com/playlist?list=PL9SnRnlzoyX0RE6_wcrTKaWj8cmQb3uO6
+MateFacil
 
 =========================================================================
 TRANSFORMADAS DE LAPLACE
